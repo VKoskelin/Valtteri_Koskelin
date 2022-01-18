@@ -12,3 +12,47 @@ h1, .redtext{
     text-decoration: dotted;
 
 }
+
+
+#error {
+    background-color: azure;
+    color: yellow;
+    font-size: x-large;
+}
+
+span, strong, em{
+    background-color: brown;
+    border-bottom: 1px;
+}
+
+p::First-letter{
+    color:brown;
+}
+
+article > p{
+    background-color: chartreuse;
+}
+
+.notebox{
+    border:5px solid rebeccapurple;
+    padding: .5em;
+    width: fit-content;
+}
+
+.notebox.warning{
+    border: 4px solid orange;
+    font-weight: bold;
+}
+
+.notebox.danger{
+    background-color: brown;
+}
+
+header {
+    background-color: blueviolet;
+
+}
+
+mytitle {
+    background-color: chocolate;
+}
