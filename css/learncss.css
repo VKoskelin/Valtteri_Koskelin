@@ -53,6 +53,19 @@ header {
 
 }
 
-mytitle {
+mytitle{
     background-color: chocolate;
+}
+
+a:link{
+    color:blue;
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color:red;
 }
