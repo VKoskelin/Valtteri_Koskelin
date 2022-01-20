@@ -40,9 +40,9 @@ a:hover{
 }
 
 img{
-    border:red;
+    border:1px solid red;
     padding:10px;
-    width: 250;
+    width: 250px;
     opacity: 0.5;
 
 }
