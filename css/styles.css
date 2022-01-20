@@ -32,9 +32,22 @@ h1{
 
 }
 
-link{
-    
+a:link{
+    Color:red;
 }
+a:hover{
+    Color:blue;
+}
+
+img{
+    border:red;
+    padding:10px;
+    width: 250;
+    opacity: 0.5;
+
+}
+
+
 
 h2{
     Color: red;
